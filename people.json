@@ -1,0 +1,40 @@
+{
+    "people": [
+        {
+            "id": 1,
+            "name": "Mike",
+            "age": 25,
+            "gender": "M"
+        }
+    ]
+}
+{
+    "people": [
+        {
+            "id": 1,
+            "name": "Ushe",
+            "age": 36,
+            "gender": "M"
+        },
+    ]
+}
+{
+    "people": [
+        {
+            "id": 1,
+            "name": "Sean",
+            "age": 29,
+            "gender": "M"
+        },
+    ]
+}
+{
+    "people": [
+        {
+            "id": 1,
+            "name": "Thandanani",
+            "age": 20,
+            "gender": "F"
+        },
+    ]
+}
